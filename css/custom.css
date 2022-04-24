@@ -1,0 +1,19 @@
+/****
+ * CSS Customization
+ *****/
+
+#navbar {
+	background: black;
+}
+
+#banner {
+	background: #0d0252;
+}
+
+a.footlink {
+	text-decoration: none;
+}
+
+a.footlink:hover {
+	font-weight: bold;
+}
