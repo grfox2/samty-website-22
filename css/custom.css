@@ -1,6 +1,9 @@
 /****
  * CSS Customization
  *****/
+#cookiemsg {
+	margin: 0;
+}
 
 #navbar {
 	background: black;
