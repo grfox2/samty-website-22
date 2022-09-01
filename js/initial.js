@@ -6,5 +6,5 @@ function getDate() {
 
 function accept() {
 	document.cookie = "accepted=true; expires="+getDate()+"; SameSite=None; Secure; path=/";
-	window['ga-disable-GA_MEASUREMENT_ID'] = false;
+	window['ga-disable-UA-17305443-1'] = false;
 }
